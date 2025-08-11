@@ -1,0 +1,9 @@
+.defalut {
+  width: 92%;
+  max-width: 1152px;
+  margin: 0 auto;
+}
+.large {
+  composes: defalut;
+  max-width: 1280px;
+}
